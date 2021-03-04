@@ -1,4 +1,4 @@
-package cc.chengheng.设计模式.单例设计模式;
+package cc.chengheng.创建型.A单例设计模式;
 
 public class A饿汉式_静态变量 {
     public static void main(String[] args) {

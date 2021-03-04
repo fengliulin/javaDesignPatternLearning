@@ -1,4 +1,4 @@
-package cc.chengheng.设计模式.单例设计模式;
+package cc.chengheng.创建型.A单例设计模式;
 
 public class E懒汉式_线程安全_同步代码块_DoubleCheck {
     public static void main(String[] args) {

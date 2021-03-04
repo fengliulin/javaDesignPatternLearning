@@ -1,4 +1,4 @@
-package cc.chengheng.设计模式.单例设计模式;
+package cc.chengheng.创建型.A单例设计模式;
 
 public class D懒汉式_线程安全_同步方法 {
     public static void main(String[] args) {

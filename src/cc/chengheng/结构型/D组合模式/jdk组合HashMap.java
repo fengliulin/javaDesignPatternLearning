@@ -3,7 +3,7 @@ package cc.chengheng.结构型.D组合模式;
 import java.util.HashMap;
 import java.util.Map;
 
-public class jdk装饰者HashMap {
+public class jdk组合HashMap {
     public static void main(String[] args) {
 
         /*

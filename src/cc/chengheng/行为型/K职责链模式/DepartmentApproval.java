@@ -12,7 +12,7 @@ public class DepartmentApproval extends AbstractApproval {
     /**
      * 流程要求 <br>
      *
-     * @param purchaseRequest
+     * @param purchaseRequest 
      */
     @Override
     public void processRequest(PurchaseRequest purchaseRequest) {
